@@ -1,1 +1,2 @@
-# Carrito_Compra_Tecnical_Multiservice_Company_3
+# Carrito-Compras-JavaScript
+ Carrito de compras con JavaScript y LocalStorage
